@@ -1,6 +1,6 @@
 # RATATOUILLE FAM
 
-This repo contains team Ratatouille's mentorship family memories.
+This repo contains team Ratatouille's mentorship family memories. <3
 
 
 # Woohoo!
