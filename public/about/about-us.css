@@ -1,4 +1,8 @@
-#starter-code
-{
-    color: blue;
+
+.col-sm {
+    color: darkturquoise;
+}
+
+.about-profile-text {
+    color: white;
 }
